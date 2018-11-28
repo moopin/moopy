@@ -22,7 +22,7 @@ pip3 install humanfriendly
 
 pip3 install googletrans
 
-git clone https://github.com/NIGHTBATv1/55555
+git clone https://github.com/tinnakorn941/ko.git
 
 cd 55555
 
