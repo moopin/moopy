@@ -23,21 +23,21 @@ line = LINE('')
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
-#ki = LINE()
-#ki.log("Auth Token : " + str(ki.authToken))
-#ki.log("Timeline Token : " + str(ki.tl.channelAccessToken))
+ki = LINE()
+ki.log("Auth Token : " + str(ki.authToken))
+ki.log("Timeline Token : " + str(ki.tl.channelAccessToken))
 
-#kk = LINE()
-#kk.log("Auth Token : " + str(kk.authToken))
-#kk.log("Timeline Token : " + str(kk.tl.channelAccessToken))
+kk = LINE()
+kk.log("Auth Token : " + str(kk.authToken))
+kk.log("Timeline Token : " + str(kk.tl.channelAccessToken))
 
-#kc = LINE()
-#kc.log("Auth Token : " + str(kc.authToken))
-#kc.log("Timeline Token : " + str(kc.tl.channelAccessToken))
+kc = LINE()
+kc.log("Auth Token : " + str(kc.authToken))
+kc.log("Timeline Token : " + str(kc.tl.channelAccessToken))
 
-#ks = LINE()
-#ks.log("Auth Token : " + str(ks.authToken))
-#ks.log("Timeline Token : " + str(ks.tl.channelAccessToken))
+ks = LINE()
+ks.log("Auth Token : " + str(ks.authToken))
+ks.log("Timeline Token : " + str(ks.tl.channelAccessToken))
 print ("Login Succes")
 
 lineMID = line.profile.mid
